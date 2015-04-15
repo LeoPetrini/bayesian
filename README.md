@@ -1,2 +1,2 @@
 # Bayesian Methods and Statistical Learning
-Collection of algorithms in MCMC, Statistical Learning, Regression, Bayesian Data Analysis
+Collection of algorithms I've made for MCMC, Statistical Learning, Regression, Bayesian Data Analysis
