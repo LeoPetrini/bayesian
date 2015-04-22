@@ -16,7 +16,7 @@ Collection of algorithms I've made for MCMC, Statistical Learning, Regression, a
 * [Walsh, B. - Markov Chain Monte Carlo and Gibbs Sampling](http://fisher.osu.edu/~schroeder.9/AMIS900/Walsh2004.pdf)
 
 
-##### *The* book on machine/statistical learning:
+:star:
   > * [Hastie, T., et al - The Elements of Statistical Learning: *Data Mining, Inference, and Prediction.*](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
     * [Website](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
       
