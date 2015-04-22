@@ -19,7 +19,7 @@ Collection of algorithms I've made for MCMC, Statistical Learning, Regression, a
 :star:
   > * [Hastie, T., et al - The Elements of Statistical Learning: *Data Mining, Inference, and Prediction.*](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
     * [Website](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
-* [Robert, C.P. - The Bayesian Choice](https://uqu.edu.sa/files2/tiny_mce/plugins/filemanager/files/4290552/real/icdl/albrak/static/Robert%20C.%20-%20The%20Bayesian%20Choice%20%282nd%20edition,%20Springer,%202007%29.pdf)
+* [Robert, C.P. - The Bayesian Choice 2e (Springer 2007)](https://uqu.edu.sa/files2/tiny_mce/plugins/filemanager/files/4290552/real/icdl/albrak/static/Robert%20C.%20-%20The%20Bayesian%20Choice%20%282nd%20edition,%20Springer,%202007%29.pdf)
 
 
 ### Programs
