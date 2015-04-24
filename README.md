@@ -2,8 +2,6 @@
 Collection of algorithms I've made for MCMC, Statistical Learning, Regression, and Bayesian Data Analysis and some reference material.
 
   > * [Congdon, P. - Bayesian Statistical Modelling 2e (Wiley 2006)](http://ksu.edu.sa/sites/py/ar/mpy/departments/math/learnResources/ResourceCenter/Documents/Bayesian%20Statistical%20Modelling.pdf)
-* [Hadlwey, W. - Advanced R](http://www.amazon.com/dp/1466586966/ref=cm_sw_su_dp?tag=devtools-20)
-  * [Website](http://adv-r.had.co.nz/)
 * [Lee, P. M. - Bayesian Statistics 4e (Companion site with code)](http://www-users.york.ac.uk/~pml1/bayes/contents.htm)
 * [Karreth, J. - Applied Bayesian Modelling: *A Brief JAGS and R2jags Tutorial*](http://www.jkarreth.net/files/jags.tutorial.pdf)
   * [Website](http://www.jkarreth.net/bayes-icpsr.html)
@@ -22,7 +20,8 @@ Collection of algorithms I've made for MCMC, Statistical Learning, Regression, a
   > * [Hastie, T., et al - The Elements of Statistical Learning: *Data Mining, Inference, and Prediction.*](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
     * [Website](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 * [Robert, C.P. - The Bayesian Choice 2e (Springer 2007)](https://uqu.edu.sa/files2/tiny_mce/plugins/filemanager/files/4290552/real/icdl/albrak/static/Robert%20C.%20-%20The%20Bayesian%20Choice%20%282nd%20edition,%20Springer,%202007%29.pdf)
-
+* [Hadley, W. - Advanced R](http://www.amazon.com/dp/1466586966/ref=cm_sw_su_dp?tag=devtools-20)
+  * [Website](http://adv-r.had.co.nz/)
 
 ### Programs
   > * [OpenBUGS](http://www.openbugs.net/w/FrontPage)
